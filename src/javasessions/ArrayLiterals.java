@@ -6,8 +6,8 @@ public class ArrayLiterals {
 
 	public static void main(String[] args) {
 		
+		//integer array
 		
-		//int array
 		//1. using new;
 		int i[] = new int[4]; // 0-3
 		
